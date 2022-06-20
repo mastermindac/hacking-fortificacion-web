@@ -1,15 +1,6 @@
-<div align="center">
-  <a href="https://www.mastermind.ac/courses/hacking-y-fortificacion-web"><h2>Hacking y fortificación Web</h2></a>
-</div>
+<div align="center"><h2>Hacking y fortificación Web</h2></a></div>
 
-<!-- ABOUT THE PROJECT -->
-## Hacking fortificacion web. Proyecto Final
-Para el desarrallo del proyecto final de Hacking y Fortificación web se pretende poner en práctica todo lo aprendido mediante la realización del proyecto 
-final. La finalidad es que repases todo lo visto, pero también para comprobar que eres capaz de fortificar un sitio web y poder presentarlo al mundo.
-
-Para poder aplicar cualquiera de las medidas de fortificación vistas necesitamos un sitio que proteger, 
-tenéis muchas opciones para tener ese entorno preparado. Puedes utilizar el código que os damos como recurso, 
-en él encontrarás un simple login de usuario y contraseña con el que puedes comenzar a trabajar, ya que está muy muy desprotegido.
+En el actual repositorio encontraréis código para el desarrollo del proyecto final planteado en el curso <a href="https://www.mastermind.ac/courses/hacking-y-fortificacion-web">Hacking y fortificación web</a>
 
 ## Detalle del escenario propuesto
 
