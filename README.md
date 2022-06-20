@@ -1,3 +1,7 @@
+<div align="center">
+  <a href="https://www.mastermind.ac/courses/hacking-y-fortificacion-web"><img src="https://import.cdn.thinkific.com/220744/courses/1827548/uJgnvpT0TaqSbkGpoFrw_hacking-web-y%20-fortificacio%CC%81n-junio-min.jpg" alt="FortificacionWeb"> </a>
+</div>
+
 <!-- ABOUT THE PROJECT -->
 ## Hacking fortificacion web. Proyecto Final
 Para el desarrallo del proyecto final de Hacking y Fortificación web se pretende poner en práctica todo lo aprendido mediante la realización del proyecto 
@@ -8,6 +12,8 @@ tenéis muchas opciones para tener ese entorno preparado. Puedes utilizar el có
 en él encontrarás un simple login de usuario y contraseña con el que puedes comenzar a trabajar, ya que está muy muy desprotegido.
 
 ## Detalle del escenario propuesto
+
+En la carpeta <a href="https://github.com/pacomastermind/hacking_fortificacion_web/tree/master/proyecto_final_escenario_login_php">proyecto_final_escenario_login_php</> podréis encontrar un escenario muy sencillo con los siguientes ficheros:
 
 * login.php, contiene el código de la página inicial y el formulario de login de usario con su contraseña
 * config.php, contiene la configuración y conexión a la base de datos
