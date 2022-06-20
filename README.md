@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.mastermind.ac/courses/hacking-y-fortificacion-web"><img src="https://import.cdn.thinkific.com/220744/courses/1827548/uJgnvpT0TaqSbkGpoFrw_hacking-web-y%20-fortificacio%CC%81n-junio-min.jpg" alt="FortificacionWeb"> </a>
+  <a href="https://www.mastermind.ac/courses/hacking-y-fortificacion-web"><h2>Hacking y fortificación Web</h2></a>
 </div>
 
 <!-- ABOUT THE PROJECT -->
